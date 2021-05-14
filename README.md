@@ -11,8 +11,8 @@ A study of the pedestrian volumes over the week for different times of the day r
 As we explored the volumes based on the time of day across sensors we observed an overall shift of distribution towards the late hours on Fridays compared to Monday-Thursdays as weekend vibe sets in. Sensors could be picking up pedestrian activity generated for restaurant/club goers. Some sensors such as Bourke Street have moderate to high sensor volumes throughout the day; Lygon street shows high activity during the Friday late evenings whereas there are others that have high volumes during start of the business hours.
 
 
-![test](https://github.com/schibsen/SocialDataProjHandIn/blob/eadd4287b21911ac312aaa7f5fc4d354cd8678dc/Figures_static/bokeh_sensor_dayofweek_gif.gif)
+![test](https://github.com/schibsen/SocialDataProjHandIn/blob/0c26b6bbdf5e3f83c06788e5137ac4757d8fcf8e/Figures_static/boxplot_gif.gif)
 
 We then created interactive visualizations to view the average pedestrian volumes by the hour based on the user's choice of a sensor and day of week. It helped us validate our observations from the boxplot. Further, it also pointed out which hour is the busiest or least busy in the day for each sensor, an information that isn't available through the Box plots. For example, the Bourke street sensors indeed show a drop in activity between 1pm-4pm , which then later picks up in the evening. Also, Princes Bridge and Southbank ( the names suggest proximity to a water body) pick up exceptionally high volumes around 5 pm which could also be driven by tourists.  
 
-![test](Figures_interactive/bokeh_sensor_dayofweek_gif.gif)
+![test](https://github.com/schibsen/SocialDataProjHandIn/blob/0c26b6bbdf5e3f83c06788e5137ac4757d8fcf8e/Figures_static/bokeh_sensor_dayofweek_gif.gif)
