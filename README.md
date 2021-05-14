@@ -68,7 +68,7 @@ The event based visualization is an effort towards understanding the pulse of th
 
 A set of different events were chosen and the pedestrian traffic captures by the sensors on those days were plotted on a leaflet map. The visualization combines the volume based circle markers with an image and headline overlay relevant to the event.
 
-![test](https://github.com/schibsen/SocialDataProjHandIn/blob/a2c434ad3c2ecc41c65f45460ab1c14950e1ad2b/Figures_static/NY19_gif.giff)
+![test](https://github.com/schibsen/SocialDataProjHandIn/blob/a2c434ad3c2ecc41c65f45460ab1c14950e1ad2b/Figures_static/NY19_gif.gif)
 
 ### Technical Overview:
 
