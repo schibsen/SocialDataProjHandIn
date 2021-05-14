@@ -1,3 +1,5 @@
+# The Explanatory Notebook can be found in the link below
+https://deepnote.com/project/Final-Project-SocialData-Duplicate-Os94mO3MS_2iOVuly9z8cA/%2FFinal_project_socialdata%2FExplainer_Notebook.ipynb
 # Exploratory Data Analysis:
 
 
@@ -146,6 +148,5 @@ Are you curious about other locations or months? Go explore in the interactive p
 
 
 
-{{< covid_bokeh2 >}}
-
+**The bokeh plot that should be seen here can be found in the website and in the notebook**
 
